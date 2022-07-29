@@ -1,7 +1,7 @@
 # Discord
-discord_token: not-my-token
+discord_token: MTAwMjI5MzcxNjc5MjM4MTYyMQ.G4jOSB.yz-OjprrAhZHL4GiaFlBVO-ZwfA87PhWWHL0-0
 dall_e_generated_folder: "generated"
-bot_prefix: "!"
+bot_prefix: "."
 embed_title: "DALL·E mini"
 embed_color: 0x00ff00
 
